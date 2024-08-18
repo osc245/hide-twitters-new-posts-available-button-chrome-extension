@@ -11,7 +11,4 @@ The Twitter Button Hider extension **does not collect, use, or share any user da
 - It does not access, store, or transmit any personal information or browsing data.
 - No data is sent to our servers or any third parties.
 
-## Changes to This Policy
-We have no plans to collect user data in the future. If, on the off chance, we do we will change the privacy policy and alert users of the change.
-
 Last updated: 18 August 2024
