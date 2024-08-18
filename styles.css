@@ -1,0 +1,3 @@
+button[aria-label="New posts are available. Push the period key to go to them."] {
+  display: none !important;
+}

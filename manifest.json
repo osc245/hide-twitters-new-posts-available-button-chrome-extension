@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Hide Twitter's New Posts Available Button",
+  "version": "1.0",
+  "description": "Hides the 'New posts are available' button on Twitter",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://twitter.com/*", "https://x.com/*"],
+      "css": ["styles.css"],
+      "run_at": "document_start"
+    }
+  ]
+}
